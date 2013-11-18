@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta name="layout" content="main"/>
-    <title>Simple Chat</title>
+    <title>Simple Excel</title>
 </head>
 <body>
     <g:link action="downloadSampleExcel">Download Sample Excel</g:link>
